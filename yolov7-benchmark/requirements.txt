@@ -68,3 +68,4 @@ wcwidth==0.2.5
 Werkzeug==2.2.1
 wget==3.2
 zipp==3.8.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
